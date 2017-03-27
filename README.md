@@ -1,3 +1,5 @@
+![settordici](settordici.png)
+
 # settordici
 Settordici is the fourseventeenth javascript framework this week. The next version will be released tomosterday. Stay tuned!
 
